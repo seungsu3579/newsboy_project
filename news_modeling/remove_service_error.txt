@@ -1,0 +1,1552 @@
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+
+update or delete on table "news" violates foreign key constraint "fk72pifwpn9o4c35kvmqej94vqq" on table "top_news"
+DETAIL:  Key (id)=(11020810003215074) is still referenced from table "top_news".
+
+

@@ -1,0 +1,7 @@
+zookeeper:
+  host: 15.165.76.21
+
+kafka:
+  hosts:
+    - kafka.newsboycorp.com
+  port: 9092
